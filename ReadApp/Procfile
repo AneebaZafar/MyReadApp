@@ -1,1 +1,1 @@
-web: gunicorn ritepad.wsgi:application > Procfile
+web: gunicorn ritepad.wsgi:application
