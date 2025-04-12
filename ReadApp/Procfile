@@ -1,1 +1,1 @@
-echo web: gunicorn ritepad.wsgi:application > Procfile
+echo web: gunicorn ReadApp.wsgi:application > Procfile
